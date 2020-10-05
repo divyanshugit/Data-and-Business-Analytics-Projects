@@ -5,4 +5,5 @@ represent it visually.
 ### Dataset:
 - Link of dataset : [Iris](dataset/Iris.csv)
 
-## Conclusion:
+## Outcome of the model:
+![The optimum number of clusters](img/img.png)
